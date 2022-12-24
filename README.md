@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/ConsiderateThornyDanishswedishfarmdog-size_restricted.gif" width="300"/>
+  <img src="https://hackernoon.com/images/f2px36fy.gif" width="300"/>
   <br>
   <h1 border="0"> Hey there! I'm Igor. </h1>
   <br>
