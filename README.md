@@ -1,8 +1,6 @@
 Мой стек технологий:
 
-<img src="https://img.shields.io/badge/Python-01497c?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-c1121f?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-01497c?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-#1572B6?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-0096c7?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Python-#1572B6?style=for-the-badge&logo=Python&logoColor=white"/>
 
 <!---
 alwaysseen01/alwaysseen01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
