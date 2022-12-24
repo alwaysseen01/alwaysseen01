@@ -1,7 +1,7 @@
 Мой стек технологий:
 
 <img src="https://img.shields.io/badge/Python-01497c?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-c1121f?style=for-the-badge&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-c1121f?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-01497c?style=for-the-badge&logo=Python&logoColor=white"/>
 
 <!---
