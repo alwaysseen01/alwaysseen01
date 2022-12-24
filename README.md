@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?resize=800%2C600&ssl=1" width="300" border-radius: "15px"/>
   <br>
-  <h1 border="0px"> Hey there! I'm Igor. </h1>
+  <h1 border="0"> Hey there! I'm Igor. </h1>
   <br>
 </div>
 
