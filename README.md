@@ -1,8 +1,13 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
-  <br>
-  <h1 border="0"> Hey there! I'm Igor. </h1>
-  <br>
+<div class="waveWrapper waveAnimation">
+  <div class="waveWrapperInner bgTop">
+    <div class="wave waveTop" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-top.png')"></div>
+  </div>
+  <div class="waveWrapperInner bgMiddle">
+    <div class="wave waveMiddle" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-mid.png')"></div>
+  </div>
+  <div class="waveWrapperInner bgBottom">
+    <div class="wave waveBottom" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-bot.png')"></div>
+  </div>
 </div>
 
 My technology stack:
