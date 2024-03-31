@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alwaysseen01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alwaysseen01" height="30" width="40" /></a>
+<img align="center" src="https://github.com/alwaysseen01/alwaysseen01/assets/87842789/ada194fd-78c5-40ed-87e2-df80cd3ea5f2" alt="" width="30" height="30">
 <a href="https://instagram.com/alwaysseen01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alwaysseen01" height="30" width="40" /></a>
 </p>
 
