@@ -6,7 +6,18 @@
 
 <h2> My technology stack: </h2>
 
-<img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-0096c7?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+![image](https://github.com/alwaysseen01/alwaysseen01/assets/87842789/207d9fbc-c500-4c21-b9d8-12fbaf5eed6a)  ![image](https://github.com/alwaysseen01/alwaysseen01/assets/87842789/76bd50b6-c2a0-4184-83be-44474d9e52b5)
+  ![image](https://github.com/alwaysseen01/alwaysseen01/assets/87842789/4e4f0a16-a024-42b5-a65e-f7699f2a8fe4)  ![image](https://github.com/alwaysseen01/alwaysseen01/assets/87842789/25354397-0cad-439a-89bf-3b17e47adccd)  ![image](https://github.com/alwaysseen01/alwaysseen01/assets/87842789/679a5225-1eec-41fe-8364-9c19d167fe3b)  ![image](https://github.com/alwaysseen01/alwaysseen01/assets/87842789/4667e3e0-fa46-4ce0-9851-c7f430fdee05)  ![image](https://github.com/alwaysseen01/alwaysseen01/assets/87842789/4d00e015-afa1-4718-8e16-214b8d0a7e33) ![image](https://github.com/alwaysseen01/alwaysseen01/assets/87842789/9319b3d3-b0a3-45dd-a0c8-0eeb720ddeaa)  ![image](https://github.com/alwaysseen01/alwaysseen01/assets/87842789/7cc7f960-4f26-4a31-893f-b4520d339761)  ![image](https://github.com/alwaysseen01/alwaysseen01/assets/87842789/d106fcb8-8bfb-41a0-8849-5e5093380526)
+
+
+
+
+
+
+
+
+
+
 
 <!---
 alwaysseen01/alwaysseen01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
