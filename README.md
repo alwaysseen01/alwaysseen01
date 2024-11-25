@@ -6,8 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://github.com/alwaysseen01/alwaysseen01/assets/87842789/ada194fd-78c5-40ed-87e2-df80cd3ea5f2" alt="" width="30" height="30">
-<a href="https://instagram.com/alwaysseen01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alwaysseen01" height="30" width="40" /></a>
+  <a href="https://instagram.com/alwaysseen01" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/alwaysseen01" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"></a>
+  <a href="mailto:iruzhilov@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 <h2 align="left"> My technology stack: </h2>
