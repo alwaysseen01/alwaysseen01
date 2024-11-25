@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="left"> My technology stack: </h2>
-<a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> </a>
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 
 
 <h2 align="left"> Languages statistics: </h2>
