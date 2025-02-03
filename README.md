@@ -26,8 +26,8 @@
 
 
 
-<h2 align="left"> Languages statistics: </h2>
-<img align="center" src="https://github.com/alwaysseen01/alwaysseen01/assets/87842789/21de8b87-adfc-4c89-960b-cc802bc2e07d" alt="alwaysseen01">
+<h2 align="left"> Programming languages statistics: </h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alwaysseen01&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="alwaysseen01">
 
 
 
